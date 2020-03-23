@@ -51,6 +51,7 @@ export default props => {
 				<Option value="running">Running Events</Option>
 			</Select>
 			<br />
+			<br />
 			<div className="events-wrapper">
 				<Row gutter={[16, 16]}>
 					{events
